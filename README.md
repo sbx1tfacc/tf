@@ -28,7 +28,7 @@ A few of the recipes have associated blog posts.
  
 External contributions welcome! All that we ask is that the recipe is interesting, and that it worked at some point. There is no expectation of maintenance (maintained projects should probably have their own repository). No two projects are alike, and so, we expect most uses of this repository to require customization.
  
-To regenerate the readme, run `npm run readme`
+
 
 ## Directory layout
 
